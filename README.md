@@ -1,4 +1,4 @@
 test-repo
 =========
 
-test
+Dette er en av mine tester.
